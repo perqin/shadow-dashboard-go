@@ -10,3 +10,15 @@
 
 # Output of the go coverage tool, specifically when used with LiteIDE
 *.out
+
+# Visual Studio Code
+/.vscode
+
+# Jetbrains IDE
+/.idea
+
+# App data directory
+/data
+
+# Built binary
+/shadow-dashboard-go
